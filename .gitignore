@@ -1,0 +1,7 @@
+node_modules/
+env.ts
+.vercel
+public/
+dist/
+http/
+vercel.json
